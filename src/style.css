@@ -1,0 +1,15 @@
+#editor {
+  height: 300px;
+}
+
+#preview {
+  min-height: 300px;
+}
+
+h1 {
+  font-family: "Inter";
+}
+
+h3 {
+  font-family: "PT Sans";
+}
